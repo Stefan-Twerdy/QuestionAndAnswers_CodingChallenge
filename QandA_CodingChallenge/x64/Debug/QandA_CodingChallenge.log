@@ -1,0 +1,5 @@
+﻿  QandA_CodingChallenge.cpp
+D:\Vísual_Studio_Projects\QandA_CodingChallenge\QandA_CodingChallenge\QandA_CodingChallenge.cpp(101,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Vísual_Studio_Projects\QandA_CodingChallenge\QandA_CodingChallenge\QandA_CodingChallenge.cpp(224,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Vísual_Studio_Projects\QandA_CodingChallenge\QandA_CodingChallenge\QandA_CodingChallenge.cpp(259,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  QandA_CodingChallenge.vcxproj -> D:\Vísual_Studio_Projects\QandA_CodingChallenge\x64\Debug\QandA_CodingChallenge.exe
